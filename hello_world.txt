@@ -1,0 +1,3 @@
+I am adding some text then save and staging it. 
+I'm changing this file so I can stage and commit it
+adding another change
